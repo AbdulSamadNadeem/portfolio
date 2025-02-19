@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'logo';
+    src: url(./Autography.otf);
+}
+@font-face {
+    font-family: 'base';
+    src: url(./Poppins-Thin.ttf);
+}
+*{
+    cursor: pointer;
+}
+body{
+    background-color: black;
+    font-family: logo;
+   
+}
